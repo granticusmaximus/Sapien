@@ -1,6 +1,6 @@
 using Shared.Models;
 
-namespace Client.Services.ItemService
+namespace Client.Services
 {
     public interface IntItemService
     {

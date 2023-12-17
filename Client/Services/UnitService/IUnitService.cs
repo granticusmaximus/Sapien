@@ -1,6 +1,6 @@
 using Shared.Models;
 
-namespace Client.Services.UnitService
+namespace Client.Services
 {
     public interface IUnitService
     {

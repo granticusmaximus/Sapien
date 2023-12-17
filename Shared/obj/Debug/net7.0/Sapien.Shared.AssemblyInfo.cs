@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sapien.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16fc470cf452ce0936511391add3d464c1724f41")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sapien.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sapien.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

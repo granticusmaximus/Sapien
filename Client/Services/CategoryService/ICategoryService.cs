@@ -1,6 +1,6 @@
 using Shared.Models;
 
-namespace Client.Services.CategoryService
+namespace Client.Services
 {
     public interface ICategoryService
     {

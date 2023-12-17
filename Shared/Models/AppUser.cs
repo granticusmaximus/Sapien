@@ -19,6 +19,17 @@ namespace Shared.Models
         [Required]
         public string LastName { get; set; }
 
+        [Required, EmailAddress]
+        public string Email { get; set; }
+
+        public string Password { get; set; }
+
+        public string ConfirmPassword { get; set; }
+
+        public bool IsEmailVerified { get; set; }
+
+        public bool IsAuthenticated { get; set; }
+
         [NotMapped]
         public string FullName => FirstName + " " + LastName;
 

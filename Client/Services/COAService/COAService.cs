@@ -2,7 +2,7 @@ using Shared.Models;
 using System.Net.Http.Json;
 using Microsoft.AspNetCore.Components;
 
-namespace Client.Services.COAService
+namespace Client.Services
 {
     public class COAService : ICOAService
     {

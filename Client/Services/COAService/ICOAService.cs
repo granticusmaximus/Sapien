@@ -1,6 +1,6 @@
 using Shared.Models;
 
-namespace Client.Services.COAService
+namespace Client.Services
 {
     public interface ICOAService
     {

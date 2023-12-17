@@ -5,6 +5,7 @@
 /Users/grantwatson/Desktop/Development/CSharp/Sapien/Shared/obj/Debug/net7.0/Sapien.Shared.AssemblyInfoInputs.cache
 /Users/grantwatson/Desktop/Development/CSharp/Sapien/Shared/obj/Debug/net7.0/Sapien.Shared.AssemblyInfo.cs
 /Users/grantwatson/Desktop/Development/CSharp/Sapien/Shared/obj/Debug/net7.0/Sapien.Shared.csproj.CoreCompileInputs.cache
+/Users/grantwatson/Desktop/Development/CSharp/Sapien/Shared/obj/Debug/net7.0/Sapien.Shared.sourcelink.json
 /Users/grantwatson/Desktop/Development/CSharp/Sapien/Shared/obj/Debug/net7.0/Sapien.Shared.dll
 /Users/grantwatson/Desktop/Development/CSharp/Sapien/Shared/obj/Debug/net7.0/refint/Sapien.Shared.dll
 /Users/grantwatson/Desktop/Development/CSharp/Sapien/Shared/obj/Debug/net7.0/Sapien.Shared.pdb

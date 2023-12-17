@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Components;
 using Shared.Models;
 using System.Net.Http.Json;
 
-namespace Client.Services.CategoryGroupService
+namespace Client.Services
 {
     public class CategoryGroupService : ICategoryGroupService
     {
